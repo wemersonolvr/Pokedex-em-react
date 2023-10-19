@@ -32,32 +32,32 @@ Este projeto é de código aberto, e você pode contribuir ou personalizar confo
 
 ```bash
 git clone https://github.com/seu-usuario/pokedex-primeira-geracao-react.git
-
 ```
-Navegue até o diretório do projeto:
-bash
-Copy code
+
+## Configuração e Execução
+
+### 1. Navegue até o diretório do projeto:
+
+```bash
 cd pokedex-primeira-geracao-react
-Instale as dependências:
+2. Instale as dependências:
 bash
 Copy code
 npm install
-Inicie a aplicação:
+3. Inicie a aplicação:
 bash
 Copy code
 npm start
+
+```
 Agora você pode explorar e modificar o código conforme necessário.
 
 Agradecimentos
-PokeAPI (https://pokeapi.co) por fornecer uma API incrível e gratuita para obter informações sobre Pokémon.
+PokeAPI: Agradecemos à PokeAPI por fornecer uma API incrível e gratuita para obter informações sobre Pokémon.
 
-Desenvolvedores da primeira geração de Pokémon por criar essas criaturas incríveis que cativaram gerações.
+Desenvolvedores da primeira geração de Pokémon: Reconhecemos os desenvolvedores que criaram as criaturas incríveis que cativaram gerações.
 
 Licença
 Este projeto está licenciado sob a Licença MIT, o que significa que você pode utilizá-lo livremente em seus próprios projetos.
 
 Divirta-se explorando a Pokedex da Primeira Geração em React!
-
-Copy code
-
-Espero que este README.md atenda às suas necessidades!
