@@ -33,6 +33,7 @@ Este projeto é de código aberto, e você pode contribuir ou personalizar confo
 ```bash
 git clone https://github.com/seu-usuario/pokedex-primeira-geracao-react.git
 
+```
 Navegue até o diretório do projeto:
 bash
 Copy code
