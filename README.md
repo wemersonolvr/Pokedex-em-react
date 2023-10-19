@@ -32,12 +32,3 @@ Licença
 Este projeto está licenciado sob a Licença MIT, o que significa que você pode utilizá-lo livremente em seus próprios projetos.
 
 Divirta-se explorando a Pokedex da Primeira Geração!
-
-Copy code
-
-Espero que isso atenda às suas expectativas!
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
