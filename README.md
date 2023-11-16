@@ -31,7 +31,7 @@ Este projeto é de código aberto, e você pode contribuir ou personalizar confo
 1. Clone este repositório:
 
 ```bash
-[git clone https://github.com/seu-usuario/pokedex-primeira-geracao-react.git](https://github.com/wemersonolvr/Trabalho-front2.git)
+https://github.com/wemersonolvr/Trabalho-front2.git
 ```
 
 ## Configuração e Execução
